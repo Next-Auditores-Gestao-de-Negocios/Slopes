@@ -1,3 +1,4 @@
+<img width="1000" height="204" alt="Wordmark-Completa-Branco-Transparente" src="https://github.com/user-attachments/assets/ddc3f840-cfec-42bf-a003-a1a6479847a7" />
 
 <!DOCTYPE html>
 <html lang="pt-BR">
